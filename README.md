@@ -37,7 +37,7 @@ Hospitals face financial penalties when patients are readmitted within 30 days o
 3. Discharge disposition mattered significantly. Patients discharged to certain facility types showed measurably different readmission rates than those discharged home.
 4. Findings around medication changes at discharge and A1C testing during the stay both align with the original clinical research question this dataset was collected to investigate.
 
-
+![Readmission Dashboard](readmission_dashboard.png)
 
 ## Recommendations
 
