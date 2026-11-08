@@ -38,8 +38,10 @@ Hospitals face financial penalties when patients are readmitted within 30 days o
 4. Findings around medication changes at discharge and A1C testing during the stay both align with the original clinical research question this dataset was collected to investigate.
 
 
+
 ## Recommendations
 
 - Focus discharge planning and follow-up on patients with the highest risk based on past hospital visits.
 - Give extra care coordination to patients with heart/circulatory conditions and diabetes, given they have higher readmission rates.
 - Review discharge processes at facilities with high readmission rates to find areas that could be improved.
+- Implement routine HbA1c testing for diabetic patients during admission, as unmonitored A1C levels correlate with higher readmission rates.
