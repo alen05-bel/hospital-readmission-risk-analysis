@@ -155,8 +155,12 @@ SELECT * FROM admission_type_map;
 
 
 -- STEP 4
--- Remove patient who died or went to hospice
--- They can't be readmitted, so keeping them skews our readmission rate
+-- remove the column with about 97% missing data
+-- Remove patient who died or went to hospice. They can't be readmitted, so keeping them skews our readmission rate
+
+ALTER TABLE diabetic_data_dedup
+DROP COLUMN weight;
+
 
 SELECT discharge_disposition_id,
 COUNT(*) AS encounter_count
